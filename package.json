@@ -1,0 +1,23 @@
+{
+  "author": "colohr",
+  "bugs": {
+    "url": "https://github.com/colohr/va11y.meta/issues"
+  },
+  "dependencies": {
+    "js-yaml": "^3.11.0",
+    "fxy": "^0.1.725"
+  },
+  "description": "Meta Module",
+  "homepage": "https://github.com/colohr/va11y.meta#readme",
+  "license": "ISC",
+  "main": "package/index.js",
+  "name": "@va11y/meta",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colohr/va11y.meta.git"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "version": "0.0.1"
+}
